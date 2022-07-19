@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#calculator{
+    width: 380px;
+    height: 500px;
+    box-shadow: 0 0 15px rgba(0,0,0,1);
+    margin: auto;
+    padding-top: 5px;
+    margin-top: 30px;
+}
+
+
+#calculator #screen{
+  width: 350px;
+  margin-left:15px;
+  height: 120px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+#calculator .button{
+    display: flexbox;
+
+}
+
+
+.btn{
+    margin: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+
+btn-answer{
+    width: 165px;
+}
+
+
